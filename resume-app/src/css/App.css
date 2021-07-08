@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: #3d405b;
+  height: 100vh;
+}
+
+.Banner {
+  background-color: #81b29a;
+  height: 10vh;
+}
+.App-link {
+  color: #61dafb;
+}
+
