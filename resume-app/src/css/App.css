@@ -4,6 +4,28 @@
   height: 100vh;
 }
 
+.Social {
+  display: flex;
+  justify-content: space-beteween;
+  max-width: 400px;
+}
+
+.Name {
+  width: 50%;
+  height: 25%;
+  position: relative;
+  margin: 0 auto;
+;
+  font-size: xx-large;
+}
+
+span {
+  width: 75px;
+  height: 75px;
+  margin-left: 20px;
+  margin-top: 5%;
+}
+
 .Banner {
   background-color: #81b29a;
   height: 10vh;
